@@ -10,7 +10,9 @@ You only need to add to your project:
 1.- files from assets folder
 2.- files from aplication/controllers, aplication//views and update files from aplication/language
 To show text you only need to use variable using this reference
-<?php echo $this->session->userdata('lang');  ?>
+```php
+echo $this->session->userdata('lang'); 
+``` 
 
 ## Usage
 
