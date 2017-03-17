@@ -40,6 +40,7 @@ There are a few extra flags added, if you need to use it, go to assets/css:
 ```
 
 2.- If you need other flags just try to search it keeping the sie (16x11) and format (PNG) or change it to your convenience
+3.- Update aplication//views  file welcome_message.php
 
 ## Contributing
 
