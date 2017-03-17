@@ -58,7 +58,7 @@ using snippet from http://www.mattvarone.com/web-design/uitotop-jquery-plugin/
 
 ## License
 
-TODO: Write license
+MIT © Simon Montaño
 
 
 
