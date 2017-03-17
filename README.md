@@ -18,6 +18,7 @@ echo $this->session->userdata('lang');
 
 There are a few extra flags added, if you need to use it, go to assets/css: 
 1.- update file welcome.css, for example like this
+```html
 .c_chinese {
 	background-image:url('../images/flags/cn.png');
 }
@@ -36,6 +37,8 @@ There are a few extra flags added, if you need to use it, go to assets/css:
 .c_usa {
 	background-image:url('../images/flags/us.png');
 }
+```
+
 2.- If you need other flags just try to search it keeping the sie (16x11) and format (PNG) or change it to your convenience
 
 ## Contributing
